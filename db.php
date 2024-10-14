@@ -1,7 +1,7 @@
 <?php
 $servername = "localhost";
-$username = "root";
-$password = "";
+$username = "phpmyadmin";
+$password = "root";
 $dbname = "movie_plaza";
 
 // Create connection
